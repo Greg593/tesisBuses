@@ -3,3 +3,16 @@ Segunda entrega de metodología RUP.
 Proyecto de Graduacíon II
 Víctor Manuel Morales Cedillos
 0908 - 12 - 3831
+
+El documento "Documento - Diagramas UML.pdf" contiene los diagramas UML que se solicitaban.
+	1. Diagrama de clases
+	2. Modelo E-R (Si el sistema así lo requiere)
+	3. Diagrama de Secuencia
+	4. Diagrama de estados
+	5. Diagrama de Colaboración
+	6. Modelo de dominio. 
+	7. Mapa de comportamiento a nivel de hardware. 
+	8. Un modelo de Casos de Uso completa al menos hasta el 80%.
+
+El documento "Documento - Plan de Desarrollo (Gantt).pdf" cumple con
+	9. Plan de desarrollo para el proyecto
